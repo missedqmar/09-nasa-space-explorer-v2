@@ -1,5 +1,5 @@
 // Use this URL to fetch NASA APOD JSON data.
-const apodData = 'https://cdn.jsdelivr.net/gh/GCA-Classroom/apod/data.json';
+const apodData = '';
 
 const spaceFacts = [
   "A day on Venus is longer than its year!",
